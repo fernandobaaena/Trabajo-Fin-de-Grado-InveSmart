@@ -8,6 +8,9 @@ Proyecto Final de Grado desarrollado con Laravel.
 - MySQL
 - Tailwind
 - Livewire
+- JavaScript
+- CSS
+- HTML
 
 ## Instalación
 1. Clonar repositorio
