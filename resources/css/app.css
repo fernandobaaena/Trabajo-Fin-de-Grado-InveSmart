@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Meow+Script&family=Pacifico&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Stack+Sans+Headline:wght@200..700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+}
+:root{
+    --fondo: #fffde2;
+    --texto-negro: #1c2321;
+    --secondary-color: #4244DD;
+    --terciary-color: #fe7568;
+}
